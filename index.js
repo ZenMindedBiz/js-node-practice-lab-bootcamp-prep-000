@@ -3,8 +3,8 @@
 var name = "Janet";
 var height = 65;
 
-console.log("Name:")
-console.log(name)
+console.log("Name:");
+console.log(name);
 
-console.log("Height:")
-console.log(parseInt(height + 1))
+console.log("Height:");
+console.log(parseInt(height + 1));
